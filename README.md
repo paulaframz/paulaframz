@@ -1,8 +1,8 @@
-# 👩‍💻 Paula Ramirez Orozco
+# Paula Ramirez Orozco
 
 **Data Analyst | Air Quality Monitoring | Air Sensor Networks**
 
-Building practical AI solutions that combine data science and environmental monitoring.
+Building practical solutions that combine data science and environmental monitoring.
 
 # 🚀 AIML 500 Portfolio
 
@@ -35,7 +35,7 @@ A collection of AI, Machine Learning, and Leadership assignments demonstrating r
 ## 🖼 Deliverable
 
 <p align="center">
-<img src="..." width="700">
+<img width="768" height="1376" alt="ai_ml_timeline" src="https://github.com/user-attachments/assets/846982e0-b8db-48bf-874d-d09dee1fe51e" />
 </p>
 
 ## 🎯 Objective
@@ -90,13 +90,14 @@ Create a visual timeline illustrating the evolution of Artificial Intelligence a
 
 ## 🖼 Deliverables
 
-<p align="center">
-<img src="..." width="700">
-</p>
-
 🔗 **BoodleBox Chatbot**
 
-🔗 **Marketing Infographic**
+🔗 **Process and Marketing Infographic**
+
+<p align="center">
+<img width="1376" height="768" alt="process_infographic" src="https://github.com/user-attachments/assets/2c9003d5-c9f4-4dc2-bb10-415ea76d10f8" />
+<img width="1856" height="878" alt="marketing_infographic" src="https://github.com/user-attachments/assets/c615b8e2-3dec-439e-ba68-8cac5ac0fa5f" />
+</p>
 
 ## 🎯 Objective
 
