@@ -1,214 +1,172 @@
-## Table of Contents
+# 👩‍💻 Paula Ramirez Orozco
 
-1. [AI and Machine Learning Historical Timeline](#1-ai-and-machine-learning-historical-timeline)
-2. [AI Lab – Professional Speaker Bureau Development](#2-ai-lab--professional-speaker-bureau-development)
-3. [Personal AI and Change Leadership Assessment](#3-personal-ai-and-change-leadership-assessment)
+**Data Analyst | Air Quality Monitoring | Air Sensor Networks**
+
+Building practical AI solutions that combine data science and environmental monitoring.
+
+# 🚀 AIML 500 Portfolio
+
+![Course](https://img.shields.io/badge/Course-AIML%20500-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Projects](https://img.shields.io/badge/Projects-3-purple)
+
+A collection of AI, Machine Learning, and Leadership assignments demonstrating research, prompt engineering, AI implementation, and professional communication.
 
 ---
 
-# 1. AI and Machine Learning Historical Timeline
+## 📚 Table of Contents
+
+- 🤖 [AI & Machine Learning Historical Timeline](#1-ai--machine-learning-historical-timeline)
+- 💬 [AI Lab – Professional Speaker Bureau](#2-ai-lab--professional-speaker-bureau-development)
+- 🌱 [AI & Change Leadership Assessment](#3-personal-ai-and-change-leadership-assessment)
 
 ---
 
-## Project Overview
+# 1. AI & Machine Learning Historical Timeline
 
-| Item | Description |
-|------|-------------|
+![Research](https://img.shields.io/badge/Research-AI%20History-blue)
+![Visualization](https://img.shields.io/badge/Visualization-Timeline-purple)
+
 | **Course** | AIML 500 |
-| **Assignment** | AI and Machine Learning Historical Timeline |
-| **Date** | July 11th, 2026 |
-| **Status** | Completed |
+|------------|----------|
+| **Date** | July 11, 2026 |
+| **Status** | ✅ Completed |
 
----
-
-## Project Deliverable
+## 🖼 Deliverable
 
 <p align="center">
-<img width="768" height="1376" alt="ai_ml_timeline" src="https://github.com/user-attachments/assets/13d2aa11-0ef2-434c-bf31-2daa1e02f6a6" />
+<img src="..." width="700">
 </p>
----
 
-## Objective
+## 🎯 Objective
 
-Research and synthesize the historical evolution of Artificial Intelligence (AI) and Machine Learning (ML) by identifying significant milestones, periods of technological advancement and decline, and recent innovations. Present the findings through a clear and engaging visual timeline.
+Create a visual timeline illustrating the evolution of Artificial Intelligence and Machine Learning from early theoretical foundations to modern generative AI.
 
----
+## ⚙️ Workflow
 
-## Process
+- Literature review
+- Milestone identification
+- AI Winter analysis
+- Timeline design
+- Review & refinement
 
-1. Research historical developments in AI from the 1950s to the present.
-2. Identify major breakthroughs.
-3. Document AI Winter periods.
-4. Investigate recent advances.
-5. Design the visual timeline.
-6. Review and revise.
+## 🛠 Technologies
 
----
+| Category | Tool |
+|----------|------|
+| Research | Google Gemini |
+| Design | Minimalist Timeline |
+| Graphics | Line Art |
 
-## Tools & Technologies Used
+> [!NOTE]
+> **Portfolio Value:** Demonstrates technical research, information synthesis, and visual storytelling.
 
-| Category | Tool(s) |
-|----------|---------|
-| AI Tools | Google Gemini |
-| Timeline Design | Extend timeline to include pre-computers milestones and early 20th century events that preceded AI. |
-| Graphic Design | Minimalist aesthetic, dark background, line art |
+<details>
+<summary>📖 References</summary>
 
----
+- Britannica
+- Our World in Data
+- IEEE Computer Society
+- ExplainX
+- PBS
+- GeeksforGeeks
 
-## Value Proposition
+</details>
 
-### Unique Value
-
-This project demonstrates the ability to transform complex technical history into an engaging visual narrative.
-
-### Relevance
-
-Develops research, synthesis, visual communication, and AI literacy skills.
-
----
-
-## References
-
-https://explainx.ai/blog/history-of-artificial-intelligence-1950-2026
-https://www.britannica.com/science/history-of-artificial-intelligence/Connectionism
-https://www.geeksforgeeks.org/artificial-intelligence/evolution-of-ai/
-https://resources.rework.com/libraries/history-of-ai/ai-timeline
-https://ourworldindata.org/brief-history-of-ai
-https://www.computer.org/publications/tech-news/research/evolution-of-ai
-https://www.pbs.org/show/crash-course-computer-science/
+⬆️ [Back to Top](#-aiml-500-portfolio)
 
 ---
 
-<br>
+# 2. AI Lab – Professional Speaker Bureau
 
-# 2. AI Lab – Professional Speaker Bureau Development
+![AI](https://img.shields.io/badge/AI-Implementation-orange)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Gemini-success)
+![Collaboration](https://img.shields.io/badge/Team-Project-blue)
 
----
-
-## Project Overview
-
-| Item | Description |
-|------|-------------|
 | **Course** | AIML 500 |
-| **Assignment** | AI Lab |
-| **Date** | July 10th, 2026 |
-| **Status** | Completed |
+|------------|----------|
+| **Date** | July 10, 2026 |
+| **Status** | ✅ Completed |
 
----
-
-## Project Deliverable
+## 🖼 Deliverables
 
 <p align="center">
-<img width="1376" height="768" alt="process_infographic" src="https://github.com/user-attachments/assets/8ae42b79-a0aa-46a6-91af-24c1ace77e74" />
-[Chat-bot](#https://box.boodle.ai/a/@Group13)
-<img width="1856" height="878" alt="marketing_infographic" src="https://github.com/user-attachments/assets/df2fbaf4-94fd-49f4-9453-157efefa3b8b" />
+<img src="..." width="700">
 </p>
----
 
-## Objective
+🔗 **BoodleBox Chatbot**
 
-Collaboratively design, develop, and promote a fictional professional speaker bureau using AI-powered tools and communication strategies.
+🔗 **Marketing Infographic**
 
----
+## 🎯 Objective
 
-## Process
+Design and promote a fictional professional speaker bureau using generative AI tools and collaborative workflows.
 
-1. Interview teammates.
-2. Deliver TED-style introductions.
-3. Create a professional speaker profile.
-4. Develop an AI chatbot.
-5. Produce timelines and marketing materials.
-6. Refine deliverables through collaboration.
+## ⚙️ Workflow
 
----
+- Team interviews
+- Speaker profile creation
+- Prompt engineering
+- Chatbot development
+- Marketing asset creation
 
-## Tools & Technologies Used
+## 🛠 Technologies
 
-| Category | Tool(s) |
-|----------|---------|
-| Generative AI | Google AI Suite and Gemini |
-| Chatbot Platform | BoodleBox |
-| Knowledge Base | Team's written intro and speaker profiles |
-| Graphic Design | Default |
+| Category | Tool |
+|----------|------|
+| AI | Gemini |
+| Chatbot | BoodleBox |
+| Knowledge Base | Speaker Profiles |
+| Design | AI-generated graphics |
 
----
+> [!TIP]
+> **Portfolio Value:** Highlights AI implementation, prompt engineering, collaboration, and customer-facing chatbot development.
 
-## Value Proposition
-
-### Unique Value
-
-Integrates AI implementation, personal branding, prompt engineering, and collaborative project development.
-
-### Relevance
-
-Demonstrates practical applications of AI in communication, marketing, and customer engagement.
+⬆️ [Back to Top](#-aiml-500-portfolio)
 
 ---
 
-<br>
+# 3. AI & Change Leadership Assessment
 
-# 3. Personal AI and Change Leadership Assessment
+![Leadership](https://img.shields.io/badge/Leadership-Reflection-yellow)
+![Professional Development](https://img.shields.io/badge/Growth-Continuous-success)
 
----
-
-## Project Overview
-
-| Item | Description |
-|------|-------------|
 | **Course** | AIML 500 |
-| **Assignment** | Personal Assessment |
-| **Date** | July 11th, 2026 |
-| **Status** | Completed |
+|------------|----------|
+| **Date** | July 11, 2026 |
+| **Status** | ✅ Completed |
 
----
+## 📄 Deliverable
 
-## Project Deliverable
+🔗 Assessment Reflection
 
+## 🎯 Objective
 
+Evaluate AI readiness and change leadership competencies to create a personal professional development plan.
 
----
+## ⚙️ Workflow
 
-## Objective
+- Complete assessments
+- Analyze results
+- Identify strengths
+- Develop action plan
 
-Reflect on personal strengths, growth opportunities, and professional development needs based on AI/ML Integration and Change Management assessment results.
+## 🛠 Technologies
 
----
+| Category | Tool |
+|----------|------|
+| Assessments | AI/ML Leadership & Change Management |
+| Documentation | Microsoft Word |
 
-## Process
+> [!IMPORTANT]
+> **Portfolio Value:** Demonstrates self-assessment, ethical leadership, and lifelong learning.
 
-1. Complete assessments.
-2. Analyze results.
-3. Identify strengths and opportunities.
-4. Connect findings to professional goals.
-5. Develop an action plan.
+<details>
+<summary>📖 References</summary>
 
----
+- Center for Creative Leadership
+- Change Strategists
 
-## Tools & Technologies Used
+</details>
 
-| Category | Tool(s) |
-|----------|---------|
-| Assessment Instrument(s) | AI/ML integration leadership skills self-assessment and change management skils self-assessment|
-| Documentation Software | Microsoft word |
-| AI Tools | None |
-
----
-
-## Value Proposition
-
-### Unique Value
-
-Promotes reflective leadership by connecting AI readiness with personal and professional growth.
-
-### Relevance
-
-Strengthens continuous learning, ethical leadership, and change management competencies.
-
----
-
-## References
-
-- https://www.ccl.org/articles/leading-effectively-articles/successful-change-leader/
-- https://changestrategists.com/how-to-assess-change-management-skills/
-
----
+⬆️ [Back to Top](#-aiml-500-portfolio)
