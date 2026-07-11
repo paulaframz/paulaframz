@@ -92,10 +92,15 @@ Create a visual timeline illustrating the evolution of Artificial Intelligence a
 
 🔗 **BoodleBox Chatbot** [link](https://box.boodle.ai/a/@Group13)
 
-🔗 **Process and Marketing Infographic**
+🔗 **Process Infographic**
 
 <p align="center">
 <img width="1376" height="768" alt="process_infographic" src="https://github.com/user-attachments/assets/2c9003d5-c9f4-4dc2-bb10-415ea76d10f8" />
+</p>
+
+🔗 **Marketing Infographic**
+
+<p align="center">
 <img width="1856" height="878" alt="marketing_infographic" src="https://github.com/user-attachments/assets/c615b8e2-3dec-439e-ba68-8cac5ac0fa5f" />
 </p>
 
