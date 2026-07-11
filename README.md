@@ -144,7 +144,7 @@ Design and promote a fictional professional speaker bureau using generative AI t
 
 ## 📄 Deliverable
 
-🔗 Assessment Reflection [link](https://box.boodle.ai/a/@Group13](https://github.com/paulaframz/paulaframz/blob/main/workshop1_assignment5.docx)
+🔗 Assessment Reflection [link](https://github.com/paulaframz/paulaframz/blob/main/workshop1_assignment5.docx)
 
 ## 🎯 Objective
 
@@ -179,10 +179,9 @@ Evaluate AI readiness and change leadership competencies to create a personal pr
 
 ---
 
-# 4. AI & Change Leadership Assessment
+# 4. Adaptability and Change Leadership
 
-![Leadership](https://img.shields.io/badge/Leadership-Reflection-yellow)
-![Professional Development](https://img.shields.io/badge/Growth-Continuous-success)
+Instructions: Share a personal, professional, or academic situation from your own experience where adaptive learning could have improved the outcome of a change initiative.
 
 | **Course** | AIML 500 |
 |------------|----------|
@@ -191,35 +190,33 @@ Evaluate AI readiness and change leadership competencies to create a personal pr
 
 ## 📄 Deliverable
 
-🔗 Assessment Reflection [link](https://box.boodle.ai/a/@Group13](https://github.com/paulaframz/paulaframz/blob/main/workshop1_assignment5.docx)
+🔗 Assessment Reflection [link](https://github.com/paulaframz/paulaframz/blob/main/workshop2_assignment5.docx)
 
 ## 🎯 Objective
 
-Evaluate AI readiness and change leadership competencies to create a personal professional development plan.
+Reflect on a real-world change initiative and evaluate how adaptive learning, continuous feedback, and change leadership principles could have improved its planning, implementation, and outcomes. Demonstrate the ability to connect personal experience with organizational change management concepts.
 
 ## ⚙️ Workflow
 
-- Complete assessments
-- Analyze results
-- Identify strengths
-- Develop action plan
+1. Selected a professional experience involving organizational or technical change.
+2. Analyzed the challenges encountered during the transition, including communication gaps and stakeholder adaptation.
+3. Applied adaptive learning and change leadership concepts introduced in the course.
+4. Identified opportunities for iterative learning, feedback collection, and continuous improvement.
+5. Developed a personal reflection describing lessons learned and future strategies for leading change more effectively.
 
-## 🛠 Technologies
+## 🛠️ Tools & Technologies
 
-| Category | Tool |
-|----------|------|
-| Assessments | AI/ML Leadership & Change Management |
-| Documentation | Microsoft Word |
+- Microsoft Word
+- GitHub
+- Change management frameworks
+- Reflective analysis techniques
+- AI-assisted editing (ChatGPT)
+
+## 💡 Value Proposition
+
+This reflection demonstrates the ability to critically evaluate organizational change through the lens of adaptive learning. It highlights competencies in continuous improvement, self-assessment, leadership, and strategic thinking—skills that are increasingly valuable in software engineering, data science, and AI-driven organizations where technologies, workflows, and stakeholder needs evolve rapidly.
 
 > [!IMPORTANT]
-> **Portfolio Value:** Demonstrates self-assessment, ethical leadership, and lifelong learning.
-
-<details>
-<summary>📖 References</summary>
-
-- Center for Creative Leadership
-- Change Strategists
-
-</details>
+> **Portfolio Value:** This artifact showcases professional reflection and change leadership skills beyond technical expertise. It demonstrates an understanding that successful AI and data science projects depend not only on technical implementation but also on effective communication, adaptability, stakeholder engagement, and continuous learning throughout the change process.
 
 ⬆️ [Back to Top](#-aiml-500-portfolio)
