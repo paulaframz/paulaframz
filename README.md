@@ -25,7 +25,7 @@ Current focus: Learn more about modern data science and software engineering thr
 
 | Item | Description |
 |------|-------------|
-| **Course** | AIML |
+| **Course** | AIML 500 |
 | **Assignment** | AI and Machine Learning Historical Timeline |
 | **Date** | July 11th, 2026 |
 | **Status** | Completed |
@@ -34,25 +34,14 @@ Current focus: Learn more about modern data science and software engineering thr
 
 ## Project Preview
 
-> Replace the placeholder below with a screenshot, infographic, or other visual artifact.
-
 <p align="center">
-<img src="images/ai-ml-timeline.png" width="800" alt="AI & ML Timeline Preview">
+<img src="C:\Users\EU01161379\Documents\iwu\aiml500\ai_ml_timeline.png" width="800" alt="AI & ML Timeline Preview">
 </p>
-
-> *If the image is not yet available, leave the placeholder or replace it later.*
 
 ---
 
-## Deliverables
+## Project Deliverable
 
-| Artifact | Link |
-|----------|------|
-| Assignment Instructions | |
-| Final Timeline | |
-| Presentation | |
-| Source Files | |
-| Repository | |
 
 ---
 
@@ -77,11 +66,9 @@ Research and synthesize the historical evolution of Artificial Intelligence (AI)
 
 | Category | Tool(s) |
 |----------|---------|
-| Research Databases | |
-| AI Tools | |
-| Timeline Design | |
-| Graphic Design | |
-| Other Technologies | |
+| AI Tools | Google Gemini |
+| Timeline Design | Extend timeline to include pre-computers milestones and early 20th century events that preceded AI. |
+| Graphic Design | Minimalist aesthetic, dark background, line art |
 
 ---
 
@@ -99,7 +86,13 @@ Develops research, synthesis, visual communication, and AI literacy skills.
 
 ## References
 
--
+https://explainx.ai/blog/history-of-artificial-intelligence-1950-2026
+https://www.britannica.com/science/history-of-artificial-intelligence/Connectionism
+https://www.geeksforgeeks.org/artificial-intelligence/evolution-of-ai/
+https://resources.rework.com/libraries/history-of-ai/ai-timeline
+https://ourworldindata.org/brief-history-of-ai
+https://www.computer.org/publications/tech-news/research/evolution-of-ai
+https://www.pbs.org/show/crash-course-computer-science/
 
 ---
 
@@ -113,32 +106,16 @@ Develops research, synthesis, visual communication, and AI literacy skills.
 
 | Item | Description |
 |------|-------------|
-| **Course** | |
+| **Course** | AIML 500 |
 | **Assignment** | AI Lab |
-| **Date** | |
-| **Status** | ☐ Planned ☐ In Progress ☐ Completed |
+| **Date** | July 10th, 2026 |
+| **Status** | Completed |
 
 ---
 
-## Project Preview
+## Project Deliverable
 
-<p align="center">
-<img src="images/ai-lab.png" width="800" alt="AI Lab Preview">
-</p>
 
----
-
-## Deliverables
-
-| Artifact | Link |
-|----------|------|
-| Assignment Instructions | |
-| Speaker Profile | |
-| AI Chatbot | |
-| Marketing Materials | |
-| Timeline | |
-| Presentation | |
-| Repository | |
 
 ---
 
@@ -163,13 +140,10 @@ Collaboratively design, develop, and promote a fictional professional speaker bu
 
 | Category | Tool(s) |
 |----------|---------|
-| Generative AI | |
-| Chatbot Platform | |
-| Knowledge Base | |
-| Graphic Design | |
-| Presentation Software | |
-| Collaboration Tools | |
-| Other Technologies | |
+| Generative AI | Google AI Suite and Gemini |
+| Chatbot Platform | BoodleBox |
+| Knowledge Base | Team's written intro and speaker profiles |
+| Graphic Design | Default |
 
 ---
 
@@ -185,12 +159,6 @@ Demonstrates practical applications of AI in communication, marketing, and custo
 
 ---
 
-## References
-
--
-
----
-
 <br>
 
 # 3. Personal AI and Change Leadership Assessment
@@ -201,29 +169,15 @@ Demonstrates practical applications of AI in communication, marketing, and custo
 
 | Item | Description |
 |------|-------------|
-| **Course** | |
+| **Course** | AIML 500 |
 | **Assignment** | Personal Assessment |
-| **Date** | |
-| **Status** | ☐ Planned ☐ In Progress ☐ Completed |
+| **Date** | July 11th, 2026 |
+| **Status** | Completed |
 
 ---
 
-## Project Preview
+## Project Deliverable
 
-<p align="center">
-<img src="images/personal-assessment.png" width="800" alt="Personal Assessment Preview">
-</p>
-
----
-
-## Deliverables
-
-| Artifact | Link |
-|----------|------|
-| Assignment Instructions | |
-| Assessment Results | |
-| Reflection Paper | |
-| Supporting Documents | |
 
 ---
 
@@ -247,10 +201,9 @@ Reflect on personal strengths, growth opportunities, and professional developmen
 
 | Category | Tool(s) |
 |----------|---------|
-| Assessment Instrument(s) | |
-| Documentation Software | |
-| AI Tools | |
-| Other Technologies | |
+| Assessment Instrument(s) | AI/ML integration leadership skills self-assessment and change management skils self-assessment|
+| Documentation Software | Microsoft word |
+| AI Tools | None |
 
 ---
 
@@ -268,41 +221,7 @@ Strengthens continuous learning, ethical leadership, and change management compe
 
 ## References
 
--
-
----
-
-# Portfolio Gallery
-
-| Project | Preview |
-|----------|---------|
-| AI & ML Timeline | <img src="images/ai-ml-timeline.png" width="250"> |
-| AI Lab | <img src="images/ai-lab.png" width="250"> |
-| Personal Assessment | <img src="images/personal-assessment.png" width="250"> |
-
----
-
-# Repository Resources
-
-| Resource | Link |
-|----------|------|
-| 📂 Portfolio Repository | |
-| 📄 Project Documentation | |
-| 🎥 Demonstration Video | |
-| 📊 Presentation Slides | |
-| 🤖 AI Chatbot | |
-| 🌐 Live Website (if applicable) | |
-
----
-
-## Notes
-
-Use this section to record:
-
-- Lessons learned
-- Challenges encountered
-- Future improvements
-- Skills developed
-- Additional resources
+- https://www.ccl.org/articles/leading-effectively-articles/successful-change-leader/
+- https://changestrategists.com/how-to-assess-change-management-skills/
 
 ---
