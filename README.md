@@ -21,17 +21,11 @@
 
 ---
 
-## Project Preview
-
-<p align="center">
-<img src="C:\Users\EU01161379\Documents\iwu\aiml500\ai_ml_timeline.png" width="800" alt="AI & ML Timeline Preview">
-</p>
-
----
-
 ## Project Deliverable
 
-
+<p align="center">
+<img width="768" height="1376" alt="ai_ml_timeline" src="https://github.com/user-attachments/assets/13d2aa11-0ef2-434c-bf31-2daa1e02f6a6" />
+</p>
 ---
 
 ## Objective
@@ -104,8 +98,11 @@ https://www.pbs.org/show/crash-course-computer-science/
 
 ## Project Deliverable
 
-
-
+<p align="center">
+<img width="1376" height="768" alt="process_infographic" src="https://github.com/user-attachments/assets/8ae42b79-a0aa-46a6-91af-24c1ace77e74" />
+[Chat-bot](#https://box.boodle.ai/a/@Group13)
+<img width="1856" height="878" alt="marketing_infographic" src="https://github.com/user-attachments/assets/df2fbaf4-94fd-49f4-9453-157efefa3b8b" />
+</p>
 ---
 
 ## Objective
@@ -166,6 +163,7 @@ Demonstrates practical applications of AI in communication, marketing, and custo
 ---
 
 ## Project Deliverable
+
 
 
 ---
