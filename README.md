@@ -139,7 +139,7 @@ Design and promote a fictional professional speaker bureau using generative AI t
 
 ## 📄 Deliverable
 
-🔗 Assessment Reflection [link](https://box.boodle.ai/a/@Group13)
+🔗 Assessment Reflection [link](https://box.boodle.ai/a/@Group13](https://github.com/paulaframz/paulaframz/blob/main/workshop1_assignment5.docx)
 
 ## 🎯 Objective
 
