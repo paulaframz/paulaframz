@@ -1,7 +1,3 @@
-### Welcome to my portfolio!
-
----
-
 ## Table of Contents
 
 1. [AI and Machine Learning Historical Timeline](#1-ai-and-machine-learning-historical-timeline)
