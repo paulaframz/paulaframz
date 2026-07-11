@@ -90,7 +90,7 @@ Create a visual timeline illustrating the evolution of Artificial Intelligence a
 
 ## 🖼 Deliverables
 
-🔗 **BoodleBox Chatbot**
+🔗 **BoodleBox Chatbot** [link](https://box.boodle.ai/a/@Group13)
 
 🔗 **Process and Marketing Infographic**
 
@@ -139,7 +139,7 @@ Design and promote a fictional professional speaker bureau using generative AI t
 
 ## 📄 Deliverable
 
-🔗 Assessment Reflection
+🔗 Assessment Reflection [link](https://box.boodle.ai/a/@Group13)
 
 ## 🎯 Objective
 
