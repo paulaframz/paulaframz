@@ -176,3 +176,50 @@ Evaluate AI readiness and change leadership competencies to create a personal pr
 </details>
 
 ⬆️ [Back to Top](#-aiml-500-portfolio)
+
+---
+
+# 4. AI & Change Leadership Assessment
+
+![Leadership](https://img.shields.io/badge/Leadership-Reflection-yellow)
+![Professional Development](https://img.shields.io/badge/Growth-Continuous-success)
+
+| **Course** | AIML 500 |
+|------------|----------|
+| **Date** | July 11, 2026 |
+| **Status** | ✅ Completed |
+
+## 📄 Deliverable
+
+🔗 Assessment Reflection [link](https://box.boodle.ai/a/@Group13](https://github.com/paulaframz/paulaframz/blob/main/workshop1_assignment5.docx)
+
+## 🎯 Objective
+
+Evaluate AI readiness and change leadership competencies to create a personal professional development plan.
+
+## ⚙️ Workflow
+
+- Complete assessments
+- Analyze results
+- Identify strengths
+- Develop action plan
+
+## 🛠 Technologies
+
+| Category | Tool |
+|----------|------|
+| Assessments | AI/ML Leadership & Change Management |
+| Documentation | Microsoft Word |
+
+> [!IMPORTANT]
+> **Portfolio Value:** Demonstrates self-assessment, ethical leadership, and lifelong learning.
+
+<details>
+<summary>📖 References</summary>
+
+- Center for Creative Leadership
+- Change Strategists
+
+</details>
+
+⬆️ [Back to Top](#-aiml-500-portfolio)
