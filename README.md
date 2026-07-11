@@ -1,11 +1,4 @@
-# Paula Ramirez Orozco
-
-Hello! I'm a data analyst focused in applying data skills in projects that promote sustainable and equitable development. In my current role, I maintain Minnesota's air sensor network and perform hyperlocal air quality analyses for environmental justice areas.
-
-Current focus: Learn more about modern data science and software engineering through MSc on AI.
-
-
-> Collection of coursework and applied projects demonstrating competencies in Artificial Intelligence, Machine Learning, professional communication, collaboration, and reflective leadership.
+### Welcome to my portfolio!
 
 ---
 
